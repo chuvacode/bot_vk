@@ -1,2 +1,2 @@
 def token_group():
-    return '444'
+    return ''
