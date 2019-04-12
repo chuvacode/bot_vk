@@ -1,2 +1,2 @@
 def token_group():
-    return ''
+    return '123123'
